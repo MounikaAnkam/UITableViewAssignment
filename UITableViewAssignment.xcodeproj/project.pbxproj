@@ -7,12 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F7FD82A1A95683C008AB46D /* MyCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9F7FD8291A95683C008AB46D /* MyCell.xib */; };
+		9F7FD8311A956CC7008AB46D /* Beethovenfries.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F7FD82C1A956CC7008AB46D /* Beethovenfries.png */; };
+		9F7FD8321A956CC7008AB46D /* Europe After the Rain II.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F7FD82D1A956CC7008AB46D /* Europe After the Rain II.png */; };
+		9F7FD8331A956CC7008AB46D /* Il Giudizio Universale.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F7FD82E1A956CC7008AB46D /* Il Giudizio Universale.png */; };
+		9F7FD8341A956CC7008AB46D /* Persistence of Memory.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F7FD82F1A956CC7008AB46D /* Persistence of Memory.png */; };
+		9F7FD8351A956CC7008AB46D /* The Garden of Delights.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F7FD8301A956CC7008AB46D /* The Garden of Delights.png */; };
+		9F7FD8371A95716C008AB46D /* The Virgin.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F7FD8361A95716C008AB46D /* The Virgin.png */; };
 		9FB903491A93B75500690E4B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FB903481A93B75500690E4B /* AppDelegate.swift */; };
 		9FB9034B1A93B75500690E4B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FB9034A1A93B75500690E4B /* ViewController.swift */; };
 		9FB9034E1A93B75500690E4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FB9034C1A93B75500690E4B /* Main.storyboard */; };
 		9FB903501A93B75500690E4B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FB9034F1A93B75500690E4B /* Images.xcassets */; };
 		9FB903531A93B75500690E4B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9FB903511A93B75500690E4B /* LaunchScreen.xib */; };
 		9FB9035F1A93B75500690E4B /* UITableViewAssignmentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FB9035E1A93B75500690E4B /* UITableViewAssignmentTests.swift */; };
+		9FB9036B1A93B7EE00690E4B /* FamousPainting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FB9036A1A93B7EE00690E4B /* FamousPainting.swift */; };
+		9FB9036D1A93B92800690E4B /* ArtMuseum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FB9036C1A93B92800690E4B /* ArtMuseum.swift */; };
+		9FB9036F1A93BC1700690E4B /* MyCell1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9FB9036E1A93BC1700690E4B /* MyCell1.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +36,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9F7FD8291A95683C008AB46D /* MyCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyCell.xib; sourceTree = "<group>"; };
+		9F7FD82C1A956CC7008AB46D /* Beethovenfries.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Beethovenfries.png; sourceTree = "<group>"; };
+		9F7FD82D1A956CC7008AB46D /* Europe After the Rain II.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Europe After the Rain II.png"; sourceTree = "<group>"; };
+		9F7FD82E1A956CC7008AB46D /* Il Giudizio Universale.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Il Giudizio Universale.png"; sourceTree = "<group>"; };
+		9F7FD82F1A956CC7008AB46D /* Persistence of Memory.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Persistence of Memory.png"; sourceTree = "<group>"; };
+		9F7FD8301A956CC7008AB46D /* The Garden of Delights.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "The Garden of Delights.png"; sourceTree = "<group>"; };
+		9F7FD8361A95716C008AB46D /* The Virgin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "The Virgin.png"; sourceTree = "<group>"; };
 		9FB903431A93B75500690E4B /* UITableViewAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITableViewAssignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FB903471A93B75500690E4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9FB903481A93B75500690E4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +53,9 @@
 		9FB903581A93B75500690E4B /* UITableViewAssignmentTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UITableViewAssignmentTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FB9035D1A93B75500690E4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9FB9035E1A93B75500690E4B /* UITableViewAssignmentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITableViewAssignmentTests.swift; sourceTree = "<group>"; };
+		9FB9036A1A93B7EE00690E4B /* FamousPainting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FamousPainting.swift; path = ../FamousPainting.swift; sourceTree = "<group>"; };
+		9FB9036C1A93B92800690E4B /* ArtMuseum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ArtMuseum.swift; path = ../ArtMuseum.swift; sourceTree = "<group>"; };
+		9FB9036E1A93BC1700690E4B /* MyCell1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MyCell1.xib; path = UITableViewAssignment/MyCell1.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +76,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9F7FD82B1A956CC7008AB46D /* images11 */ = {
+			isa = PBXGroup;
+			children = (
+				9F7FD82C1A956CC7008AB46D /* Beethovenfries.png */,
+				9F7FD82D1A956CC7008AB46D /* Europe After the Rain II.png */,
+				9F7FD82E1A956CC7008AB46D /* Il Giudizio Universale.png */,
+				9F7FD8361A95716C008AB46D /* The Virgin.png */,
+				9F7FD82F1A956CC7008AB46D /* Persistence of Memory.png */,
+				9F7FD8301A956CC7008AB46D /* The Garden of Delights.png */,
+			);
+			path = images11;
+			sourceTree = "<group>";
+		};
 		9FB9033A1A93B75500690E4B = {
 			isa = PBXGroup;
 			children = (
+				9F7FD8291A95683C008AB46D /* MyCell.xib */,
+				9FB9036E1A93BC1700690E4B /* MyCell1.xib */,
+				9F7FD82B1A956CC7008AB46D /* images11 */,
 				9FB903451A93B75500690E4B /* UITableViewAssignment */,
 				9FB9035B1A93B75500690E4B /* UITableViewAssignmentTests */,
 				9FB903441A93B75500690E4B /* Products */,
@@ -78,6 +114,8 @@
 			isa = PBXGroup;
 			children = (
 				9FB903481A93B75500690E4B /* AppDelegate.swift */,
+				9FB9036C1A93B92800690E4B /* ArtMuseum.swift */,
+				9FB9036A1A93B7EE00690E4B /* FamousPainting.swift */,
 				9FB9034A1A93B75500690E4B /* ViewController.swift */,
 				9FB9034C1A93B75500690E4B /* Main.storyboard */,
 				9FB9034F1A93B75500690E4B /* Images.xcassets */,
@@ -194,7 +232,15 @@
 			files = (
 				9FB9034E1A93B75500690E4B /* Main.storyboard in Resources */,
 				9FB903531A93B75500690E4B /* LaunchScreen.xib in Resources */,
+				9F7FD8311A956CC7008AB46D /* Beethovenfries.png in Resources */,
 				9FB903501A93B75500690E4B /* Images.xcassets in Resources */,
+				9F7FD8331A956CC7008AB46D /* Il Giudizio Universale.png in Resources */,
+				9FB9036F1A93BC1700690E4B /* MyCell1.xib in Resources */,
+				9F7FD8341A956CC7008AB46D /* Persistence of Memory.png in Resources */,
+				9F7FD8371A95716C008AB46D /* The Virgin.png in Resources */,
+				9F7FD8321A956CC7008AB46D /* Europe After the Rain II.png in Resources */,
+				9F7FD8351A956CC7008AB46D /* The Garden of Delights.png in Resources */,
+				9F7FD82A1A95683C008AB46D /* MyCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,6 +259,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9FB9034B1A93B75500690E4B /* ViewController.swift in Sources */,
+				9FB9036D1A93B92800690E4B /* ArtMuseum.swift in Sources */,
+				9FB9036B1A93B7EE00690E4B /* FamousPainting.swift in Sources */,
 				9FB903491A93B75500690E4B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -405,6 +453,7 @@
 				9FB903641A93B75500690E4B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9FB903651A93B75500690E4B /* Build configuration list for PBXNativeTarget "UITableViewAssignmentTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +462,7 @@
 				9FB903671A93B75500690E4B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
